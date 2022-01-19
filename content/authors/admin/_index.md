@@ -85,4 +85,4 @@ including
 This website (under construction) includes my 
 current research projects.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yelie-Yuan-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yelie_Yuan_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
