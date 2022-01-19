@@ -30,7 +30,7 @@ publication_types: ["0"]
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: Assortativitity and centrality measures for weighted and directed networks. An efficient algorithm for generating weighted and directed preferential attachment networks. 
+# abstract: Assortativitity and centrality measures for weighted and directed networks. An efficient algorithm for generating weighted and directed preferential attachment networks. 
 
 
 # Summary. An optional shortened abstract.
@@ -43,9 +43,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Source code
+  url: https://gitlab.com/wdnetwork/wdnet
 
 url_pdf: ''
 url_code: ''
@@ -87,3 +87,15 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+
+### Main functions
+1. Assortativitity and centrality measures for weighted and directed networks. 
+2. Provide an efficient algorithm for generating weighted and directed preferential attachment networks. 
+3. Rewire a given unweighted network towards desired assortativity level(s), 
+   provided such value(s) are attainable.
+4. Compute the bounds of assortativity coefficients of a given network.
+
+### Install the package
+```{r}
+devtools::install_git(url = "https://gitlab.com/wdnetwork/wdnet.git")
+```

@@ -14,7 +14,7 @@ organizations:
   url: https://stat.uconn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A
 
 # Interests to show in About widget
 # interests:
@@ -73,14 +73,11 @@ email: "yelie.yuan@uconn.edu"
 highlight_name: true
 ---
 
-<!-- I’m pursuing my PhD degree in Statistics at Department of Statistics, 
-University of Connecticut after graduating from School of Statistics, 
-Renmin University of China in 2016. My interests lie in Climate Change 
-Detection and Attribution Analysis, Measurement Error Models, 
-Mixture Models, Dimension Reduction and Variable Selection.
+I’m pursuing my PhD degree in Statistics at Department of Statistics, 
+University of Connecticut. My interests lie in social network analysis,
+network generation and rewiring.
 
 This website (under construction) includes information on my 
-current research projects, publications and some thinkings/notes 
-on research and programming. -->
+current research projects and publications.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yelie-Yuan-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.

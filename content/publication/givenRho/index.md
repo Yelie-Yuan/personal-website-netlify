@@ -34,7 +34,7 @@ publication_types: ["0"]
 abstract: Assortativity coefficients are important metrics to analyze both directed and undirected networks. In general, it is not guaranteed that the fitted model will always agree with the assortativity coefficients in the given network, and the structure of directed networks is more complicated than the undirected ones. Therefore, we provide a remedy by proposing a degree-preserving rewiring algorithm, called DiDPR, for generating directed networks with given directed assortativity coefficients. We construct the joint edge distribution of the target network by accounting for the four directed assortativity coefficients simultaneously, provided that they are attainable, and obtain the desired network by solving a convex optimization problem. Our algorithm also helps check the attainability of the given assortativity coefficients. We assess the performance of the proposed algorithm by simulation studies with focus on two different network models, namely Erdős–Rényi and preferential attachment random networks. We then apply the algorithm to a Facebook wall post network as a real data example. The codes for implementing our algorithm are publicly available in a [R package wdnet](../wdnet/).
 
 # Summary. An optional shortened abstract.
-summary: We provide a degree-preserving rewiring algorithm, called DiDPR, for generating directed networks with given directed assortativity coefficients.
+summary: We introduce a degree-preserving rewiring algorithm, called DiDPR, for generating directed networks with given directed assortativity coefficients.
 
 tags: []
 
