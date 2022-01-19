@@ -17,10 +17,9 @@ organizations:
 bio: A
 
 # Interests to show in About widget
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Social Network Analysis
+- Network Generation and Rewiring
 
 # Education to show in About widget
 education:
@@ -76,6 +75,12 @@ highlight_name: true
 I’m pursuing my PhD degree in Statistics at Department of Statistics, 
 University of Connecticut. My interests lie in social network analysis,
 network generation and rewiring.
+As the department webmaster, I am working on websites 
+including 
+[the Department of Statistics at the University of Connecticut](https://stat.uconn.edu),
+[the New England Statistical Society (NESS)](https://nestat.org/),
+[the New England Journal of Statistics in Data Science (NEJSDS)](https://journal.nestat.org/).
+<!-- [the Statistics in Pharmaceuticals (SIP2022) conference](https://events.stat.uconn.edu/SIP2022/),  -->
 
 This website (under construction) includes information on my 
 current research projects and publications.
