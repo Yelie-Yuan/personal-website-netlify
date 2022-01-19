@@ -82,7 +82,7 @@ including
 [the New England Journal of Statistics in Data Science (NEJSDS)](https://journal.nestat.org/).
 <!-- [the Statistics in Pharmaceuticals (SIP2022) conference](https://events.stat.uconn.edu/SIP2022/),  -->
 
-This website (under construction) includes information on my 
-current research projects and publications.
+This website (under construction) includes my 
+current research projects.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yelie-Yuan-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
