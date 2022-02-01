@@ -73,7 +73,7 @@ highlight_name: true
 ---
 
 I’m pursuing my PhD degree in Statistics at Department of Statistics, 
-University of Connecticut. My interests lie in social network analysis,
+University of Connecticut. My research interests lie in social network analysis,
 network generation and rewiring.
 As the department webmaster, I am working on websites 
 including 
