@@ -90,7 +90,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 ### Main functions
 1. Assortativitity and centrality measures for weighted and directed networks. 
-2. Provide an efficient algorithm for generating weighted and directed preferential attachment networks. 
+2. Provide an efficient algorithm for generating weighted preferential attachment networks. 
 3. Rewire a given unweighted network towards desired assortativity level(s), 
    provided such value(s) are attainable.
 4. Compute the bounds of assortativity coefficients of a given network.
