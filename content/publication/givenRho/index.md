@@ -45,9 +45,9 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-links:
-- name: arXiv:2201.03451
-  url: https://arxiv.org/abs/2201.03451
+# links:
+# - name: arXiv:2201.03451
+#   url: https://arxiv.org/abs/2201.03451
 
 url_pdf: ''
 url_code: ''
