@@ -1,13 +1,13 @@
 ---
-title: "R package wdnet"
+title: "R package wdnet on GitLab"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Yelie Yuan
 - Jun Yan
 - Panpan Zhang
-- Yelie Yuan
 
 # Author notes (optional)
 # author_notes:
